@@ -1,5 +1,8 @@
 # informatorio
 
+verifico qye estoy en la carpeta: 
+"ls -la" linux  
+
 -trackeo de archivo: 'git add .'
  'git add .\readme.md'
 
